@@ -1,56 +1,92 @@
-# 👋 Hi, I'm Anjali Deshar
+<h1 align="center">👋 Hi, I'm <strong>Anjali Deshar</strong></h1>
 
-Welcome to my GitHub profile! I'm a full-stack web developer passionate about building clean, efficient, and scalable web applications.
+<p align="center">
+A passionate Full-Stack Web Developer specializing in Laravel & modern web technologies.
+</p>
+
+<!-- Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="350" alt="Coding animation"/>
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=anjalideshar748-bot&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on Laravel-based web apps  
-- 🌱 I’m continuously learning advanced JavaScript, design patterns, and database optimization  
-- 👯 I’m open to collaborating on interesting Laravel / PHP projects or front-end work  
-- 📫 How to reach me: send me a message here on GitHub  
+- 🔭 Currently working on **Laravel-based full-stack projects**
+- 🌱 Learning **advanced JavaScript, API development, and database optimization**
+- 💡 Interested in **modern UI/UX and scalable backend systems**
+- 🤝 Open to collaborating on **PHP / Laravel / JS** projects
+- 📫 Reach me through GitHub discussions or issues
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
-| Front-end | Back-end | Database |
-|---|---|---|
-| HTML5, CSS3, JavaScript | PHP, **Laravel** | **MySQL** |
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
----
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
+</p>
 
-## 💡 What I Bring to the Table
-
-- Clean, modular, and scalable code  
-- Experience building CRUD apps with Laravel  
-- Responsive UI using HTML, CSS, and JavaScript  
-- SQL database design, optimization, and querying  
-- Passion for open-source and collaboration
-
----
-
-## 📈 GitHub Stats
-
-[![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjalideshar748-bot&show_icons=true&theme=radical)](https://github.com/anjalideshar748-bot)
+### **Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ---
 
-## 🎬 A Little Animation
+## 📊 GitHub Stats
 
-![Coding GIF](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anjalideshar748-bot&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjalideshar748-bot&theme=radical" height="170" />
+</p>
 
----
-
-## 📚 Learnings & Interests
-
-- Laravel architecture, middleware, queues  
-- REST APIs and microservices  
-- Database normalization & optimization  
-- Modern JavaScript (ES6+), async programming  
-- UI/UX and front-end performance  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalideshar748-bot&layout=compact&theme=radical" height="170" />
+</p>
 
 ---
 
-Thanks for stopping by 👩‍💻 — let’s build something great together!  
+## ✨ What I Do
+
+- Build clean, scalable, maintainable backend systems  
+- Develop responsive UI using HTML, CSS, JavaScript  
+- Create REST APIs with Laravel  
+- Database structuring, relationships & query optimization  
+- Build real-world CRUD applications with authentication  
+
+---
+
+## 🎯 Goals for 2025
+
+- Master Laravel ecosystem (Queues, Events, Livewire, APIs)  
+- Improve front-end skills with modern JS  
+- Contribute to open source  
+- Build 10+ real-world projects  
+
+---
+
+## 📬 Connect With Me
+
+<p>
+  <a href="https://github.com/anjalideshar748-bot">
+    <img src="https://skillicons.dev/icons?i=github" width="45"/>
+  </a>
+</p>
+
+---
+
+<p align="center">⭐ If you like my profile, consider giving a star to my repositories!</p>
